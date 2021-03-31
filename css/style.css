@@ -1,0 +1,200 @@
+
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+.display-4 {
+    color: pink;
+    text-align: center;
+}
+.lead {
+    color: #a26b59;
+    text-align: center;
+}
+
+.overview{
+    text-align: right;
+    margin: 10px;
+    padding: 15px;
+    font-weight: bold;
+    
+}
+
+.overviewImg {
+    height: 300px;
+    width: 500px;
+    margin: 30px;
+    padding: 15px;
+    float: left;
+   
+    
+}
+.overview-text {
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+.researchImg {
+    float: right;
+    height: 400px;
+    width: 600px;
+}
+.research {
+    font-weight: bold;
+    text-align: left;
+  
+    margin: 30px;
+    padding: 15px;
+
+}
+.researchDiv {
+      font-weight: bold;
+    text-align: left;
+    float: left;
+    margin: 30px;
+    padding: 15px;
+
+}
+.research-text {
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    margin: 30px;
+    padding: 15px;
+
+}
+.userResearch {
+    margin: 10px;
+    padding: 15px;
+}
+
+.media-body {
+    float: right;
+    text-align: right;
+    margin: 30px;
+    padding: 15px;
+  
+}
+
+.definitionContainer {
+    display: flex;
+}
+
+.definition {
+    float: right;
+    text-align: right;
+    
+}
+.definitionText {
+    float: right;
+    text-align: right;
+    margin: 30px;
+    padding: 15px;
+}
+.definitionImg {
+    float: left;
+    height: 400px;
+    width: 400px;
+    margin: 30px;
+    padding: 15px;
+}
+
+.ideationContainer {
+    display: flex;
+}
+.ideationTitle {
+    float: left;
+    text-align: left;
+    margin: 30px;
+    padding: 15px;
+  
+}
+
+.ideation {
+   float: left;
+   text-align: left;
+}
+
+.ideationImg {
+    float: right;
+    margin: 30px;
+    padding: 15px;
+    height: 500px;
+    width: 500px;
+}
+
+.prototypeContainer {
+    display: flex;
+}
+.prototypeImg {
+    float: left;
+    margin: 30px;
+    padding: 15px;
+    height: 300px;
+    width: 300px;
+}
+
+.prototype {
+    text-align: right;
+    float: right;
+
+}
+
+.prototypeText {
+    float: right;
+    text-align: right;
+    margin: 30px;
+    padding: 15px;
+
+}
+
+.testingContainer {
+    display: flex;
+    margin: 30px;
+    padding: 15px;
+    padding-right: 10px;
+}
+.testingImg {
+    float: right;
+    margin: 30px;
+    padding: 15px;
+    padding-left: 10px;
+    height: 400px;
+    width: 500px;
+}
+
+.testing {
+    text-align: left;
+    float: left;
+    margin: 30px;
+    padding: 15px;
+}
+
+.conclusionContainer {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.conclusionPicture {
+    float: left;
+}
+
+.conclusionImg {
+    float: center;
+    margin: 30px;
+    padding: 15px;
+    height: 300px;
+    width: 400px;
+}
+.conclusionTitle {
+    margin: 30px;
+    padding: 15px;
+    float: right;
+}
+.conclusionText {
+    margin: 30px;
+    padding: 15px;
+    float: right;
+}
+.card-title {
+    font-weight: bold;
+}
+
